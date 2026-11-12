@@ -16,7 +16,7 @@ aprobación, entrega y devolución con checklist de accesorios, y reporte autom�
 regresa dañado (el equipo sale del flujo "Disponible"). Transacciones SQL con bloqueo de filas + índice único para evitar
 doble préstamo (RNF-02).
 
-**Extras que pediste:**
+**Extras:**
 - Push (Expo Push → FCM) y correo (Gmail) en: nueva solicitud (a TI), aprobada/rechazada, entrega, devolución,
   equipo dañado (a TI/Admin), préstamo por vencer (15 min antes) y préstamo vencido.
 - Bandeja de notificaciones dentro de la app (campana del Inicio con punto rojo).
